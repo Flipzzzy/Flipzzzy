@@ -3,7 +3,9 @@
 - 👀 
   I'm drawn to the world of programming and technology, especially in the field of AI. I'm seeking new challenges and opportunities for growth in this exciting domain.
 - 🌱 
-  Presently, I'm actively learning Python development, with a focus on creating AI and neural networks. My learning journey is geared towards delving into the depths of machine learning and unlocking the potential of neural networks.
+  Presently, I'm actively engaged in Python development, honing my skills with a specific focus on crafting artificial intelligence and neural networks. My learning journey is dedicated to delving into the intricate realms of machine learning and harnessing the potential of neural networks.
+
+In addition to this, I am currently delving deeply into mathematics and data analytics. This pursuit is a crucial part of my broader goal: to develop my own machine learning library in the future. By solidifying my understanding of mathematical concepts and data analysis, I aim to contribute to the field and create a valuable resource for fellow developers and enthusiasts. The journey involves not only coding but also a profound exploration of the mathematical foundations that underpin machine learning algorithms. Exciting times ahead! 
 - 💞️ 
   I'm always open to collaboration and knowledge exchange. If you have interesting projects related to Python development, artificial intelligence, or neural networks, feel free to reach out! Together, we can create something amazing.
 - 📫 
